@@ -18,7 +18,7 @@
 |||
 |--|--|
 |**Installation:**|Have Python installed, then run the script file inside the folder you wish (you can edit py file to add/remove plugins)|
-|**Build Executable**:|run `pyinstaller --onefile blackswan-stub-updater.py` , search for pyinstaller for more configuration|
+|**Build Executable**:|run `pyinstaller --onefile --windowed blackswan-stub-updater.py` , search for pyinstaller for more configuration|
 
 
 <br>
